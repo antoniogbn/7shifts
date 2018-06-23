@@ -1,0 +1,354 @@
+object(stdClass)[29]
+  public '25753' => 
+    object(stdClass)[2]
+      public '517135' => 
+        object(stdClass)[1]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:40:21' (length=19)
+          public 'email' => string 'abf@7shiftstest.com' (length=19)
+          public 'firstName' => string 'Jeff' (length=4)
+          public 'hourlyWage' => float 0
+          public 'id' => int 517135
+          public 'lastName' => string 'Thompson ' (length=9)
+          public 'locationId' => int 25753
+          public 'modified' => string '2018-06-16 20:47:28' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/men/72.jpg' (length=46)
+          public 'userType' => int 2
+      public '517147' => 
+        object(stdClass)[3]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'email@7shiftstest.com' (length=21)
+          public 'firstName' => string 'Anna' (length=4)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517147
+          public 'lastName' => string 'Smith' (length=5)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-09-07 20:27:43' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/women/59.jpg' (length=48)
+          public 'userType' => int 3
+      public '517148' => 
+        object(stdClass)[4]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'b@johnson.com' (length=13)
+          public 'firstName' => string 'Bobby' (length=5)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517148
+          public 'lastName' => string 'Johnson' (length=7)
+          public 'locationId' => int 25753
+          public 'modified' => string '2018-01-12 01:17:44' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/women/11.jpg' (length=48)
+          public 'userType' => int 1
+      public '517149' => 
+        object(stdClass)[5]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'carlo@test.com' (length=14)
+          public 'firstName' => string 'Carlo' (length=5)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517149
+          public 'lastName' => string 'Adams' (length=5)
+          public 'locationId' => int 25753
+          public 'modified' => string '2018-02-16 15:43:11' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/women/37.jpg' (length=48)
+          public 'userType' => int 1
+      public '517150' => 
+        object(stdClass)[6]
+          public 'active' => int 0
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'rosa.andersen@example.com' (length=25)
+          public 'firstName' => string 'Dennis' (length=6)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517150
+          public 'lastName' => string 'Carlson' (length=7)
+          public 'locationId' => int 25753
+          public 'modified' => string '2018-06-04 17:35:42' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/women/76.jpg' (length=48)
+          public 'userType' => int 1
+      public '517151' => 
+        object(stdClass)[7]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'ariane.brown@example.com' (length=24)
+          public 'firstName' => string 'Ellyse' (length=6)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517151
+          public 'lastName' => string 'Iverson' (length=7)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/women/10.jpg' (length=48)
+          public 'userType' => int 1
+      public '517152' => 
+        object(stdClass)[8]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'gabriel.roy@example.com' (length=23)
+          public 'firstName' => string 'Frank' (length=5)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517152
+          public 'lastName' => string 'Salt' (length=4)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/men/12.jpg' (length=46)
+          public 'userType' => int 1
+      public '517153' => 
+        object(stdClass)[9]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'adem.çetin@example.com' (length=23)
+          public 'firstName' => string 'Greg' (length=4)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517153
+          public 'lastName' => string 'Frank' (length=5)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/men/25.jpg' (length=46)
+          public 'userType' => int 1
+      public '517154' => 
+        object(stdClass)[10]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'julien.nicolas@example.com' (length=26)
+          public 'firstName' => string 'Hannah' (length=6)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517154
+          public 'lastName' => string 'Turner' (length=6)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/men/17.jpg' (length=46)
+          public 'userType' => int 1
+      public '517155' => 
+        object(stdClass)[11]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'محمدعلی.رضایی@example.com' (length=37)
+          public 'firstName' => string 'Ilma' (length=4)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517155
+          public 'lastName' => string 'Kerman' (length=6)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/men/77.jpg' (length=46)
+          public 'userType' => int 1
+      public '517156' => 
+        object(stdClass)[12]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'maxime.andersen@example.com' (length=27)
+          public 'firstName' => string 'Janelle' (length=7)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517156
+          public 'lastName' => string 'Bush' (length=4)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/men/0.jpg' (length=45)
+          public 'userType' => int 1
+      public '517157' => 
+        object(stdClass)[13]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'enni.puro@example.com' (length=21)
+          public 'firstName' => string 'Kyle' (length=4)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517157
+          public 'lastName' => string 'Vincent' (length=7)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/women/15.jpg' (length=48)
+          public 'userType' => int 1
+      public '517158' => 
+        object(stdClass)[14]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'britney.andrews@example.com' (length=27)
+          public 'firstName' => string 'Lyle' (length=4)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517158
+          public 'lastName' => string 'McMorrow' (length=8)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/women/89.jpg' (length=48)
+          public 'userType' => int 3
+      public '517159' => 
+        object(stdClass)[15]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'anita.frazier@example.com' (length=25)
+          public 'firstName' => string 'Megan' (length=5)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517159
+          public 'lastName' => string 'Morrison' (length=8)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/women/64.jpg' (length=48)
+          public 'userType' => int 1
+      public '517160' => 
+        object(stdClass)[16]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'غزل.صدر@example.com' (length=25)
+          public 'firstName' => string 'Nancy' (length=5)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517160
+          public 'lastName' => string 'Laroque' (length=7)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/women/71.jpg' (length=48)
+          public 'userType' => int 1
+      public '517161' => 
+        object(stdClass)[17]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'célestin.lopez@example.com' (length=27)
+          public 'firstName' => string 'Oliver' (length=6)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517161
+          public 'lastName' => string 'Chatfield' (length=9)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/men/65.jpg' (length=46)
+          public 'userType' => int 1
+      public '517162' => 
+        object(stdClass)[18]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'lina.dasilva@example.com' (length=24)
+          public 'firstName' => string 'Paul' (length=4)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517162
+          public 'lastName' => string 'Tompson' (length=7)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/women/6.jpg' (length=47)
+          public 'userType' => int 1
+      public '517163' => 
+        object(stdClass)[19]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'daniel.petersen@example.com' (length=27)
+          public 'firstName' => string 'Quinton' (length=7)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517163
+          public 'lastName' => string 'Wilkes' (length=6)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/men/85.jpg' (length=46)
+          public 'userType' => int 1
+      public '517164' => 
+        object(stdClass)[20]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'daniel.korhonen@example.com' (length=27)
+          public 'firstName' => string 'Ryan' (length=4)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517164
+          public 'lastName' => string 'Anderson' (length=8)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/men/11.jpg' (length=46)
+          public 'userType' => int 1
+      public '517165' => 
+        object(stdClass)[21]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'philip.nielsen@example.com' (length=26)
+          public 'firstName' => string 'Sam' (length=3)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517165
+          public 'lastName' => string 'Fralish' (length=7)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/men/13.jpg' (length=46)
+          public 'userType' => int 1
+      public '517166' => 
+        object(stdClass)[22]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'mathew.wright@example.com' (length=25)
+          public 'firstName' => string 'Trevor' (length=6)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517166
+          public 'lastName' => string 'Noah' (length=4)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/men/79.jpg' (length=46)
+          public 'userType' => int 1
+      public '517167' => 
+        object(stdClass)[23]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'پرنیا.حیدری@example.com' (length=33)
+          public 'firstName' => string 'Ugene' (length=5)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517167
+          public 'lastName' => string 'Unger' (length=5)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/women/74.jpg' (length=48)
+          public 'userType' => int 3
+      public '517168' => 
+        object(stdClass)[24]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'anna.rasmussen@example.com' (length=26)
+          public 'firstName' => string 'Victor' (length=6)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517168
+          public 'lastName' => string 'Garcia' (length=6)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/women/82.jpg' (length=48)
+          public 'userType' => int 1
+      public '517169' => 
+        object(stdClass)[25]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:02' (length=19)
+          public 'email' => string 'gustav.jensen@example.com' (length=25)
+          public 'firstName' => string 'Willy' (length=5)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517169
+          public 'lastName' => string 'Lawrence' (length=8)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:02' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/men/30.jpg' (length=46)
+          public 'userType' => int 1
+      public '517170' => 
+        object(stdClass)[26]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:03' (length=19)
+          public 'email' => string 'guy.fernandez@example.com' (length=25)
+          public 'firstName' => string 'Xavier' (length=6)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517170
+          public 'lastName' => string 'Hann' (length=4)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:03' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/men/1.jpg' (length=45)
+          public 'userType' => int 1
+      public '517171' => 
+        object(stdClass)[27]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:03' (length=19)
+          public 'email' => string 'delphine.gauthier@example.com' (length=29)
+          public 'firstName' => string 'Yolanda' (length=7)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517171
+          public 'lastName' => string 'Mancini' (length=7)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:03' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/women/65.jpg' (length=48)
+          public 'userType' => int 1
+      public '517172' => 
+        object(stdClass)[28]
+          public 'active' => boolean true
+          public 'created' => string '2017-07-06 22:54:03' (length=19)
+          public 'email' => string 'tina.becker@example.com' (length=23)
+          public 'firstName' => string 'Zeus' (length=4)
+          public 'hourlyWage' => float 10
+          public 'id' => int 517172
+          public 'lastName' => string 'Orlando' (length=7)
+          public 'locationId' => int 25753
+          public 'modified' => string '2017-07-06 22:54:03' (length=19)
+          public 'photo' => string 'https://randomuser.me/api/portraits/women/39.jpg' (length=48)
+          public 'userType' => int 1

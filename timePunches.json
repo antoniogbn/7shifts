@@ -1,0 +1,1282 @@
+object(stdClass)[2]
+  public '4046830' => 
+    object(stdClass)[1]
+      public 'clockedIn' => string '2017-10-11 21:11:00' (length=19)
+      public 'clockedOut' => string '2017-10-12 05:45:00' (length=19)
+      public 'created' => string '2017-10-11 21:11:38' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046830
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-12 05:45:49' (length=19)
+      public 'userId' => int 517135
+  public '4046831' => 
+    object(stdClass)[3]
+      public 'clockedIn' => string '2017-10-11 21:14:00' (length=19)
+      public 'clockedOut' => string '2017-10-12 03:40:00' (length=19)
+      public 'created' => string '2017-10-11 21:14:41' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046831
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-12 03:44:51' (length=19)
+      public 'userId' => int 517135
+  public '4046832' => 
+    object(stdClass)[4]
+      public 'clockedIn' => string '2017-10-11 21:55:00' (length=19)
+      public 'clockedOut' => string '2017-10-12 08:00:00' (length=19)
+      public 'created' => string '2017-10-11 21:55:41' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046832
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-12 21:45:14' (length=19)
+      public 'userId' => int 517135
+  public '4046833' => 
+    object(stdClass)[5]
+      public 'clockedIn' => string '2017-10-12 13:35:00' (length=19)
+      public 'clockedOut' => string '2017-10-12 23:24:00' (length=19)
+      public 'created' => string '2017-10-12 13:35:10' (length=19)
+      public 'hourlyWage' => float 11.5
+      public 'id' => int 4046833
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-13 13:30:20' (length=19)
+      public 'userId' => int 517135
+  public '4046834' => 
+    object(stdClass)[6]
+      public 'clockedIn' => string '2017-10-12 13:49:00' (length=19)
+      public 'clockedOut' => string '2017-10-13 01:04:00' (length=19)
+      public 'created' => string '2017-10-12 13:49:40' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046834
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-13 13:45:16' (length=19)
+      public 'userId' => int 517135
+  public '4046835' => 
+    object(stdClass)[7]
+      public 'clockedIn' => string '2017-10-12 13:53:00' (length=19)
+      public 'clockedOut' => string '2017-10-13 00:30:00' (length=19)
+      public 'created' => string '2017-10-12 13:53:42' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046835
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-13 13:45:16' (length=19)
+      public 'userId' => int 517135
+  public '4046836' => 
+    object(stdClass)[8]
+      public 'clockedIn' => string '2017-10-12 16:59:00' (length=19)
+      public 'clockedOut' => string '2017-10-12 19:10:00' (length=19)
+      public 'created' => string '2017-10-12 16:59:49' (length=19)
+      public 'hourlyWage' => float 8.75
+      public 'id' => int 4046836
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-13 16:45:21' (length=19)
+      public 'userId' => int 517135
+  public '4046837' => 
+    object(stdClass)[9]
+      public 'clockedIn' => string '2017-10-12 19:50:00' (length=19)
+      public 'clockedOut' => string '2017-10-13 08:00:00' (length=19)
+      public 'created' => string '2017-10-12 19:51:04' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046837
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-13 19:45:18' (length=19)
+      public 'userId' => int 517135
+  public '4046838' => 
+    object(stdClass)[10]
+      public 'clockedIn' => string '2017-10-12 19:52:00' (length=19)
+      public 'clockedOut' => string '2017-10-12 19:54:00' (length=19)
+      public 'created' => string '2017-10-12 19:52:35' (length=19)
+      public 'hourlyWage' => float 8.75
+      public 'id' => int 4046838
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-13 19:45:18' (length=19)
+      public 'userId' => int 517135
+  public '4046839' => 
+    object(stdClass)[11]
+      public 'clockedIn' => string '2017-10-12 19:54:00' (length=19)
+      public 'clockedOut' => string '2017-10-13 02:08:00' (length=19)
+      public 'created' => string '2017-10-12 19:54:42' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046839
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-13 19:45:18' (length=19)
+      public 'userId' => int 517135
+  public '4046840' => 
+    object(stdClass)[12]
+      public 'clockedIn' => string '2017-10-12 20:06:00' (length=19)
+      public 'clockedOut' => string '2017-10-13 05:29:00' (length=19)
+      public 'created' => string '2017-10-12 20:06:47' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046840
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-13 19:45:18' (length=19)
+      public 'userId' => int 517135
+  public '4046841' => 
+    object(stdClass)[13]
+      public 'clockedIn' => string '2017-10-12 21:03:00' (length=19)
+      public 'clockedOut' => string '2017-10-13 04:57:00' (length=19)
+      public 'created' => string '2017-10-12 21:03:29' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046841
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-13 21:00:24' (length=19)
+      public 'userId' => int 517135
+  public '4046842' => 
+    object(stdClass)[14]
+      public 'clockedIn' => string '2017-10-12 21:38:00' (length=19)
+      public 'clockedOut' => string '2017-10-13 07:09:00' (length=19)
+      public 'created' => string '2017-10-12 21:38:23' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046842
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-13 21:30:18' (length=19)
+      public 'userId' => int 517135
+  public '4046843' => 
+    object(stdClass)[15]
+      public 'clockedIn' => string '2017-10-12 21:46:00' (length=19)
+      public 'clockedOut' => string '2017-10-13 04:40:00' (length=19)
+      public 'created' => string '2017-10-12 21:46:42' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046843
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-13 21:45:19' (length=19)
+      public 'userId' => int 517135
+  public '4046844' => 
+    object(stdClass)[16]
+      public 'clockedIn' => string '2017-10-12 22:09:00' (length=19)
+      public 'clockedOut' => string '2017-10-13 07:15:00' (length=19)
+      public 'created' => string '2017-10-12 22:09:18' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046844
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-13 22:00:19' (length=19)
+      public 'userId' => int 517135
+  public '4046845' => 
+    object(stdClass)[17]
+      public 'clockedIn' => string '2017-10-13 13:28:00' (length=19)
+      public 'clockedOut' => string '2017-10-13 23:16:00' (length=19)
+      public 'created' => string '2017-10-13 13:28:36' (length=19)
+      public 'hourlyWage' => float 11.5
+      public 'id' => int 4046845
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-14 13:15:22' (length=19)
+      public 'userId' => int 517135
+  public '4046846' => 
+    object(stdClass)[18]
+      public 'clockedIn' => string '2017-10-13 13:50:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 00:06:00' (length=19)
+      public 'created' => string '2017-10-13 13:50:08' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046846
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-14 13:45:24' (length=19)
+      public 'userId' => int 517135
+  public '4046847' => 
+    object(stdClass)[19]
+      public 'clockedIn' => string '2017-10-13 13:54:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 00:40:00' (length=19)
+      public 'created' => string '2017-10-13 13:54:19' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046847
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-14 13:45:24' (length=19)
+      public 'userId' => int 517135
+  public '4046848' => 
+    object(stdClass)[20]
+      public 'clockedIn' => string '2017-10-13 15:40:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 02:47:00' (length=19)
+      public 'created' => string '2017-10-13 15:40:34' (length=19)
+      public 'hourlyWage' => float 14.5
+      public 'id' => int 4046848
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-14 14:45:20' (length=19)
+      public 'userId' => int 517135
+  public '4046849' => 
+    object(stdClass)[21]
+      public 'clockedIn' => string '2017-10-13 19:46:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 01:14:00' (length=19)
+      public 'created' => string '2017-10-13 19:46:59' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046849
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-14 19:45:24' (length=19)
+      public 'userId' => int 517135
+  public '4046850' => 
+    object(stdClass)[22]
+      public 'clockedIn' => string '2017-10-13 19:47:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 04:55:00' (length=19)
+      public 'created' => string '2017-10-13 19:47:16' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046850
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-14 19:45:24' (length=19)
+      public 'userId' => int 517135
+  public '4046851' => 
+    object(stdClass)[23]
+      public 'clockedIn' => string '2017-10-13 19:49:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 04:38:00' (length=19)
+      public 'created' => string '2017-10-13 19:49:58' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046851
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-14 19:45:24' (length=19)
+      public 'userId' => int 517135
+  public '4046852' => 
+    object(stdClass)[24]
+      public 'clockedIn' => string '2017-10-13 20:46:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 08:03:00' (length=19)
+      public 'created' => string '2017-10-13 20:47:04' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046852
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-14 20:30:21' (length=19)
+      public 'userId' => int 517135
+  public '4046853' => 
+    object(stdClass)[25]
+      public 'clockedIn' => string '2017-10-13 20:52:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 02:37:00' (length=19)
+      public 'created' => string '2017-10-13 20:52:29' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046853
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-14 20:30:21' (length=19)
+      public 'userId' => int 517135
+  public '4046854' => 
+    object(stdClass)[26]
+      public 'clockedIn' => string '2017-10-13 20:54:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 01:01:00' (length=19)
+      public 'created' => string '2017-10-13 20:54:36' (length=19)
+      public 'hourlyWage' => float 8.75
+      public 'id' => int 4046854
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-14 20:30:21' (length=19)
+      public 'userId' => int 517135
+  public '4046855' => 
+    object(stdClass)[27]
+      public 'clockedIn' => string '2017-10-13 21:08:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 08:03:00' (length=19)
+      public 'created' => string '2017-10-13 21:08:55' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046855
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-14 21:00:24' (length=19)
+      public 'userId' => int 517135
+  public '4046856' => 
+    object(stdClass)[28]
+      public 'clockedIn' => string '2017-10-13 21:54:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 07:24:00' (length=19)
+      public 'created' => string '2017-10-13 21:54:14' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046856
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-14 21:45:23' (length=19)
+      public 'userId' => int 517135
+  public '4046857' => 
+    object(stdClass)[29]
+      public 'clockedIn' => string '2017-10-14 11:01:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 23:09:00' (length=19)
+      public 'created' => string '2017-10-14 11:01:49' (length=19)
+      public 'hourlyWage' => float 14.5
+      public 'id' => int 4046857
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-15 11:00:27' (length=19)
+      public 'userId' => int 517135
+  public '4046858' => 
+    object(stdClass)[30]
+      public 'clockedIn' => string '2017-10-14 13:59:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 20:12:00' (length=19)
+      public 'created' => string '2017-10-14 13:59:43' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046858
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-15 13:45:23' (length=19)
+      public 'userId' => int 517135
+  public '4046859' => 
+    object(stdClass)[31]
+      public 'clockedIn' => string '2017-10-14 16:32:00' (length=19)
+      public 'clockedOut' => string '2017-10-15 01:20:00' (length=19)
+      public 'created' => string '2017-10-14 16:33:03' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046859
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-15 16:30:23' (length=19)
+      public 'userId' => int 517135
+  public '4046860' => 
+    object(stdClass)[32]
+      public 'clockedIn' => string '2017-10-14 16:33:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 16:34:00' (length=19)
+      public 'created' => string '2017-10-14 16:33:35' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046860
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-15 16:30:23' (length=19)
+      public 'userId' => int 517135
+  public '4046861' => 
+    object(stdClass)[33]
+      public 'clockedIn' => string '2017-10-14 17:50:00' (length=19)
+      public 'clockedOut' => string '2017-10-15 00:34:00' (length=19)
+      public 'created' => string '2017-10-14 17:51:01' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046861
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-15 17:45:25' (length=19)
+      public 'userId' => int 517135
+  public '4046862' => 
+    object(stdClass)[34]
+      public 'clockedIn' => string '2017-10-14 19:40:00' (length=19)
+      public 'clockedOut' => string '2017-10-15 03:53:00' (length=19)
+      public 'created' => string '2017-10-14 19:40:54' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046862
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-15 19:30:32' (length=19)
+      public 'userId' => int 517135
+  public '4046863' => 
+    object(stdClass)[35]
+      public 'clockedIn' => string '2017-10-14 19:51:00' (length=19)
+      public 'clockedOut' => string '2017-10-15 04:47:00' (length=19)
+      public 'created' => string '2017-10-14 19:51:19' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046863
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-15 19:45:28' (length=19)
+      public 'userId' => int 517135
+  public '4046864' => 
+    object(stdClass)[36]
+      public 'clockedIn' => string '2017-10-14 20:01:00' (length=19)
+      public 'clockedOut' => string '2017-10-14 22:09:00' (length=19)
+      public 'created' => string '2017-10-14 20:01:28' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046864
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-15 20:00:31' (length=19)
+      public 'userId' => int 517135
+  public '4046865' => 
+    object(stdClass)[37]
+      public 'clockedIn' => string '2017-10-14 21:50:00' (length=19)
+      public 'clockedOut' => string '2017-10-15 06:03:00' (length=19)
+      public 'created' => string '2017-10-14 21:50:46' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046865
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-15 21:45:32' (length=19)
+      public 'userId' => int 517135
+  public '4046866' => 
+    object(stdClass)[38]
+      public 'clockedIn' => string '2017-10-14 22:04:00' (length=19)
+      public 'clockedOut' => string '2017-10-15 07:25:00' (length=19)
+      public 'created' => string '2017-10-14 22:05:00' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046866
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-15 22:00:32' (length=19)
+      public 'userId' => int 517135
+  public '4046867' => 
+    object(stdClass)[39]
+      public 'clockedIn' => string '2017-10-15 13:19:00' (length=19)
+      public 'clockedOut' => string '2017-10-15 22:55:00' (length=19)
+      public 'created' => string '2017-10-15 13:19:41' (length=19)
+      public 'hourlyWage' => float 14.5
+      public 'id' => int 4046867
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-16 13:15:32' (length=19)
+      public 'userId' => int 517135
+  public '4046868' => 
+    object(stdClass)[40]
+      public 'clockedIn' => string '2017-10-15 14:01:00' (length=19)
+      public 'clockedOut' => string '2017-10-15 18:48:00' (length=19)
+      public 'created' => string '2017-10-15 14:01:16' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046868
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-16 14:00:36' (length=19)
+      public 'userId' => int 517135
+  public '4046869' => 
+    object(stdClass)[41]
+      public 'clockedIn' => string '2017-10-15 14:01:00' (length=19)
+      public 'clockedOut' => string '2017-10-15 23:07:00' (length=19)
+      public 'created' => string '2017-10-15 14:01:20' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046869
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-16 14:00:36' (length=19)
+      public 'userId' => int 517135
+  public '4046870' => 
+    object(stdClass)[42]
+      public 'clockedIn' => string '2017-10-15 15:57:00' (length=19)
+      public 'clockedOut' => string '2017-10-15 23:10:00' (length=19)
+      public 'created' => string '2017-10-15 15:57:49' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046870
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-16 15:45:39' (length=19)
+      public 'userId' => int 517135
+  public '4046871' => 
+    object(stdClass)[43]
+      public 'clockedIn' => string '2017-10-15 20:04:00' (length=19)
+      public 'clockedOut' => string '2017-10-16 07:15:00' (length=19)
+      public 'created' => string '2017-10-15 20:04:20' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046871
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-16 20:00:42' (length=19)
+      public 'userId' => int 517135
+  public '4046872' => 
+    object(stdClass)[44]
+      public 'clockedIn' => string '2017-10-15 20:54:00' (length=19)
+      public 'clockedOut' => string '2017-10-16 07:29:00' (length=19)
+      public 'created' => string '2017-10-15 20:54:48' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046872
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-16 20:45:36' (length=19)
+      public 'userId' => int 517135
+  public '4046873' => 
+    object(stdClass)[45]
+      public 'clockedIn' => string '2017-10-15 21:47:00' (length=19)
+      public 'clockedOut' => string '2017-10-16 06:41:00' (length=19)
+      public 'created' => string '2017-10-15 21:47:38' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046873
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-16 21:45:38' (length=19)
+      public 'userId' => int 517135
+  public '4046874' => 
+    object(stdClass)[46]
+      public 'clockedIn' => string '2017-10-15 21:57:00' (length=19)
+      public 'clockedOut' => string '2017-10-16 06:42:00' (length=19)
+      public 'created' => string '2017-10-15 21:58:03' (length=19)
+      public 'hourlyWage' => float 8.75
+      public 'id' => int 4046874
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-16 21:45:38' (length=19)
+      public 'userId' => int 517135
+  public '4046875' => 
+    object(stdClass)[47]
+      public 'clockedIn' => string '2017-10-16 13:23:00' (length=19)
+      public 'clockedOut' => string '2017-10-16 21:44:00' (length=19)
+      public 'created' => string '2017-10-16 13:23:08' (length=19)
+      public 'hourlyWage' => float 11.5
+      public 'id' => int 4046875
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-17 13:15:42' (length=19)
+      public 'userId' => int 517135
+  public '4046876' => 
+    object(stdClass)[48]
+      public 'clockedIn' => string '2017-10-16 13:55:00' (length=19)
+      public 'clockedOut' => string '2017-10-16 21:59:00' (length=19)
+      public 'created' => string '2017-10-16 13:55:32' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046876
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-17 13:45:45' (length=19)
+      public 'userId' => int 517135
+  public '4046877' => 
+    object(stdClass)[49]
+      public 'clockedIn' => string '2017-10-16 14:30:00' (length=19)
+      public 'clockedOut' => string '2017-10-16 20:23:00' (length=19)
+      public 'created' => string '2017-10-16 20:23:13' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046877
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-17 14:15:46' (length=19)
+      public 'userId' => int 517135
+  public '4046878' => 
+    object(stdClass)[50]
+      public 'clockedIn' => string '2017-10-16 14:40:00' (length=19)
+      public 'clockedOut' => string '2017-10-17 00:25:00' (length=19)
+      public 'created' => string '2017-10-16 14:40:07' (length=19)
+      public 'hourlyWage' => float 14.5
+      public 'id' => int 4046878
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-17 14:30:47' (length=19)
+      public 'userId' => int 517135
+  public '4046879' => 
+    object(stdClass)[51]
+      public 'clockedIn' => string '2017-10-16 16:45:00' (length=19)
+      public 'clockedOut' => string '2017-10-16 21:54:00' (length=19)
+      public 'created' => string '2017-10-16 16:45:10' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046879
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-17 16:45:47' (length=19)
+      public 'userId' => int 517135
+  public '4046880' => 
+    object(stdClass)[52]
+      public 'clockedIn' => string '2017-10-16 19:40:00' (length=19)
+      public 'clockedOut' => string '2017-10-16 23:42:00' (length=19)
+      public 'created' => string '2017-10-16 19:40:39' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046880
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-17 19:30:57' (length=19)
+      public 'userId' => int 517135
+  public '4046881' => 
+    object(stdClass)[53]
+      public 'clockedIn' => string '2017-10-16 19:49:00' (length=19)
+      public 'clockedOut' => string '2017-10-17 02:07:00' (length=19)
+      public 'created' => string '2017-10-16 19:49:40' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046881
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-17 19:45:54' (length=19)
+      public 'userId' => int 517135
+  public '4046882' => 
+    object(stdClass)[54]
+      public 'clockedIn' => string '2017-10-16 20:00:00' (length=19)
+      public 'clockedOut' => string '2017-10-16 22:33:00' (length=19)
+      public 'created' => string '2017-10-16 20:00:36' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046882
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-17 19:45:54' (length=19)
+      public 'userId' => int 517135
+  public '4046883' => 
+    object(stdClass)[55]
+      public 'clockedIn' => string '2017-10-16 20:56:00' (length=19)
+      public 'clockedOut' => string '2017-10-17 07:14:00' (length=19)
+      public 'created' => string '2017-10-16 20:56:47' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046883
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-17 20:45:56' (length=19)
+      public 'userId' => int 517135
+  public '4046884' => 
+    object(stdClass)[56]
+      public 'clockedIn' => string '2017-10-16 21:08:00' (length=19)
+      public 'clockedOut' => string '2017-10-17 07:04:00' (length=19)
+      public 'created' => string '2017-10-16 21:08:57' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046884
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-17 21:00:58' (length=19)
+      public 'userId' => int 517135
+  public '4046885' => 
+    object(stdClass)[57]
+      public 'clockedIn' => string '2017-10-16 22:06:00' (length=19)
+      public 'clockedOut' => string '2017-10-17 07:17:00' (length=19)
+      public 'created' => string '2017-10-16 22:06:07' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046885
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-17 22:00:51' (length=19)
+      public 'userId' => int 517135
+  public '4046886' => 
+    object(stdClass)[58]
+      public 'clockedIn' => string '2017-10-17 13:26:00' (length=19)
+      public 'clockedOut' => string '2017-10-17 21:27:00' (length=19)
+      public 'created' => string '2017-10-17 13:26:21' (length=19)
+      public 'hourlyWage' => float 11.5
+      public 'id' => int 4046886
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-18 13:16:00' (length=19)
+      public 'userId' => int 517135
+  public '4046887' => 
+    object(stdClass)[59]
+      public 'clockedIn' => string '2017-10-17 13:53:00' (length=19)
+      public 'clockedOut' => string '2017-10-17 22:06:00' (length=19)
+      public 'created' => string '2017-10-17 13:53:34' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046887
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-18 13:46:04' (length=19)
+      public 'userId' => int 517135
+  public '4046888' => 
+    object(stdClass)[60]
+      public 'clockedIn' => string '2017-10-17 15:38:00' (length=19)
+      public 'clockedOut' => string '2017-10-17 22:00:00' (length=19)
+      public 'created' => string '2017-10-17 15:38:19' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046888
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-18 15:31:08' (length=19)
+      public 'userId' => int 517135
+  public '4046889' => 
+    object(stdClass)[61]
+      public 'clockedIn' => string '2017-10-17 17:35:00' (length=19)
+      public 'clockedOut' => string '2017-10-18 02:13:00' (length=19)
+      public 'created' => string '2017-10-17 17:35:31' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046889
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-18 17:31:15' (length=19)
+      public 'userId' => int 517135
+  public '4046890' => 
+    object(stdClass)[62]
+      public 'clockedIn' => string '2017-10-17 19:54:00' (length=19)
+      public 'clockedOut' => string '2017-10-18 01:13:00' (length=19)
+      public 'created' => string '2017-10-17 19:54:15' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046890
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-18 19:46:10' (length=19)
+      public 'userId' => int 517135
+  public '4046891' => 
+    object(stdClass)[63]
+      public 'clockedIn' => string '2017-10-17 20:05:00' (length=19)
+      public 'clockedOut' => string '2017-10-18 00:36:00' (length=19)
+      public 'created' => string '2017-10-17 20:06:05' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046891
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-18 20:01:07' (length=19)
+      public 'userId' => int 517135
+  public '4046892' => 
+    object(stdClass)[64]
+      public 'clockedIn' => string '2017-10-17 20:34:00' (length=19)
+      public 'clockedOut' => string '2017-10-18 00:09:00' (length=19)
+      public 'created' => string '2017-10-17 20:34:23' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046892
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-18 20:01:07' (length=19)
+      public 'userId' => int 517135
+  public '4046893' => 
+    object(stdClass)[65]
+      public 'clockedIn' => string '2017-10-17 20:48:00' (length=19)
+      public 'clockedOut' => string '2017-10-18 06:38:00' (length=19)
+      public 'created' => string '2017-10-17 20:48:27' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046893
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-18 20:46:12' (length=19)
+      public 'userId' => int 517135
+  public '4046894' => 
+    object(stdClass)[66]
+      public 'clockedIn' => string '2017-10-17 21:33:00' (length=19)
+      public 'clockedOut' => string '2017-10-18 06:48:00' (length=19)
+      public 'created' => string '2017-10-17 21:33:54' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046894
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-18 21:31:16' (length=19)
+      public 'userId' => int 517135
+  public '4046895' => 
+    object(stdClass)[67]
+      public 'clockedIn' => string '2017-10-17 21:53:00' (length=19)
+      public 'clockedOut' => string '2017-10-18 06:32:00' (length=19)
+      public 'created' => string '2017-10-17 21:53:40' (length=19)
+      public 'hourlyWage' => float 14.5
+      public 'id' => int 4046895
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-18 21:46:07' (length=19)
+      public 'userId' => int 517135
+  public '4046896' => 
+    object(stdClass)[68]
+      public 'clockedIn' => string '2017-10-17 21:57:00' (length=19)
+      public 'clockedOut' => string '2017-10-18 06:33:00' (length=19)
+      public 'created' => string '2017-10-17 21:57:43' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046896
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-18 21:46:07' (length=19)
+      public 'userId' => int 517135
+  public '4046897' => 
+    object(stdClass)[69]
+      public 'clockedIn' => string '2017-10-18 13:27:00' (length=19)
+      public 'clockedOut' => string '2017-10-19 08:00:00' (length=19)
+      public 'created' => string '2017-10-18 13:27:32' (length=19)
+      public 'hourlyWage' => float 11.5
+      public 'id' => int 4046897
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-19 13:16:20' (length=19)
+      public 'userId' => int 517135
+  public '4046898' => 
+    object(stdClass)[70]
+      public 'clockedIn' => string '2017-10-18 14:12:00' (length=19)
+      public 'clockedOut' => string '2017-10-18 22:06:00' (length=19)
+      public 'created' => string '2017-10-18 14:12:57' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046898
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-19 14:01:32' (length=19)
+      public 'userId' => int 517135
+  public '4046899' => 
+    object(stdClass)[71]
+      public 'clockedIn' => string '2017-10-18 14:14:00' (length=19)
+      public 'clockedOut' => string '2017-10-18 21:12:00' (length=19)
+      public 'created' => string '2017-10-18 14:14:47' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046899
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-19 14:01:32' (length=19)
+      public 'userId' => int 517135
+  public '4046900' => 
+    object(stdClass)[72]
+      public 'clockedIn' => string '2017-10-18 14:59:00' (length=19)
+      public 'clockedOut' => string '2017-10-18 23:09:00' (length=19)
+      public 'created' => string '2017-10-18 14:59:51' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046900
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-19 14:46:24' (length=19)
+      public 'userId' => int 517135
+  public '4046901' => 
+    object(stdClass)[73]
+      public 'clockedIn' => string '2017-10-18 19:53:00' (length=19)
+      public 'clockedOut' => string '2017-10-19 00:19:00' (length=19)
+      public 'created' => string '2017-10-18 19:53:53' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046901
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-19 19:46:27' (length=19)
+      public 'userId' => int 517135
+  public '4046902' => 
+    object(stdClass)[74]
+      public 'clockedIn' => string '2017-10-18 19:58:00' (length=19)
+      public 'clockedOut' => string '2017-10-19 01:40:00' (length=19)
+      public 'created' => string '2017-10-18 19:58:14' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046902
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-19 19:46:27' (length=19)
+      public 'userId' => int 517135
+  public '4046903' => 
+    object(stdClass)[75]
+      public 'clockedIn' => string '2017-10-18 20:09:00' (length=19)
+      public 'clockedOut' => string '2017-10-19 00:43:00' (length=19)
+      public 'created' => string '2017-10-18 20:09:14' (length=19)
+      public 'hourlyWage' => float 8.75
+      public 'id' => int 4046903
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-19 20:01:40' (length=19)
+      public 'userId' => int 517135
+  public '4046904' => 
+    object(stdClass)[76]
+      public 'clockedIn' => string '2017-10-18 21:02:00' (length=19)
+      public 'clockedOut' => string '2017-10-19 08:00:00' (length=19)
+      public 'created' => string '2017-10-18 21:02:36' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046904
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-19 21:01:38' (length=19)
+      public 'userId' => int 517135
+  public '4046905' => 
+    object(stdClass)[77]
+      public 'clockedIn' => string '2017-10-18 21:50:00' (length=19)
+      public 'clockedOut' => string '2017-10-19 06:55:00' (length=19)
+      public 'created' => string '2017-10-18 21:50:22' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046905
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-19 21:46:41' (length=19)
+      public 'userId' => int 517135
+  public '4046906' => 
+    object(stdClass)[78]
+      public 'clockedIn' => string '2017-10-18 21:54:00' (length=19)
+      public 'clockedOut' => string '2017-10-19 05:59:00' (length=19)
+      public 'created' => string '2017-10-18 21:54:57' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046906
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-19 21:46:41' (length=19)
+      public 'userId' => int 517135
+  public '4046907' => 
+    object(stdClass)[79]
+      public 'clockedIn' => string '2017-10-18 21:59:00' (length=19)
+      public 'clockedOut' => string '2017-10-19 05:59:00' (length=19)
+      public 'created' => string '2017-10-18 21:59:56' (length=19)
+      public 'hourlyWage' => float 14.5
+      public 'id' => int 4046907
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-19 21:46:41' (length=19)
+      public 'userId' => int 517135
+  public '4046908' => 
+    object(stdClass)[80]
+      public 'clockedIn' => string '2017-10-19 13:30:00' (length=19)
+      public 'clockedOut' => string '2017-10-19 23:28:00' (length=19)
+      public 'created' => string '2017-10-19 14:08:27' (length=19)
+      public 'hourlyWage' => float 11.5
+      public 'id' => int 4046908
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-20 13:16:54' (length=19)
+      public 'userId' => int 517135
+  public '4046909' => 
+    object(stdClass)[81]
+      public 'clockedIn' => string '2017-10-19 13:53:00' (length=19)
+      public 'clockedOut' => string '2017-10-19 21:57:00' (length=19)
+      public 'created' => string '2017-10-19 13:53:34' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046909
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-20 13:46:39' (length=19)
+      public 'userId' => int 517135
+  public '4046910' => 
+    object(stdClass)[82]
+      public 'clockedIn' => string '2017-10-19 14:00:00' (length=19)
+      public 'clockedOut' => string '2017-10-20 00:57:00' (length=19)
+      public 'created' => string '2017-10-19 14:26:42' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046910
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-20 13:46:39' (length=19)
+      public 'userId' => int 517135
+  public '4046911' => 
+    object(stdClass)[83]
+      public 'clockedIn' => string '2017-10-19 15:04:00' (length=19)
+      public 'clockedOut' => string '2017-10-20 02:15:00' (length=19)
+      public 'created' => string '2017-10-19 15:04:41' (length=19)
+      public 'hourlyWage' => float 14.5
+      public 'id' => int 4046911
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-20 15:01:44' (length=19)
+      public 'userId' => int 517135
+  public '4046912' => 
+    object(stdClass)[84]
+      public 'clockedIn' => string '2017-10-19 19:51:00' (length=19)
+      public 'clockedOut' => string '2017-10-20 01:52:00' (length=19)
+      public 'created' => string '2017-10-19 19:51:46' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046912
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-20 19:46:50' (length=19)
+      public 'userId' => int 517135
+  public '4046913' => 
+    object(stdClass)[85]
+      public 'clockedIn' => string '2017-10-19 19:52:00' (length=19)
+      public 'clockedOut' => string '2017-10-20 02:51:00' (length=19)
+      public 'created' => string '2017-10-19 19:52:25' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046913
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-20 19:46:50' (length=19)
+      public 'userId' => int 517135
+  public '4046914' => 
+    object(stdClass)[86]
+      public 'clockedIn' => string '2017-10-19 19:55:00' (length=19)
+      public 'clockedOut' => string '2017-10-20 03:09:00' (length=19)
+      public 'created' => string '2017-10-19 19:55:54' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046914
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-20 19:46:50' (length=19)
+      public 'userId' => int 517135
+  public '4046915' => 
+    object(stdClass)[87]
+      public 'clockedIn' => string '2017-10-19 20:05:00' (length=19)
+      public 'clockedOut' => string '2017-10-19 23:34:00' (length=19)
+      public 'created' => string '2017-10-19 20:05:18' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046915
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-20 20:01:56' (length=19)
+      public 'userId' => int 517135
+  public '4046916' => 
+    object(stdClass)[88]
+      public 'clockedIn' => string '2017-10-19 20:47:00' (length=19)
+      public 'clockedOut' => string '2017-10-20 07:10:00' (length=19)
+      public 'created' => string '2017-10-19 20:47:26' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046916
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-20 20:46:54' (length=19)
+      public 'userId' => int 517135
+  public '4046917' => 
+    object(stdClass)[89]
+      public 'clockedIn' => string '2017-10-19 20:50:00' (length=19)
+      public 'clockedOut' => string '2017-10-20 03:20:00' (length=19)
+      public 'created' => string '2017-10-19 20:50:45' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046917
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-20 20:46:54' (length=19)
+      public 'userId' => int 517135
+  public '4046918' => 
+    object(stdClass)[90]
+      public 'clockedIn' => string '2017-10-19 20:54:00' (length=19)
+      public 'clockedOut' => string '2017-10-20 02:43:00' (length=19)
+      public 'created' => string '2017-10-19 20:55:03' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046918
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-20 20:46:54' (length=19)
+      public 'userId' => int 517135
+  public '4046919' => 
+    object(stdClass)[91]
+      public 'clockedIn' => string '2017-10-19 21:15:00' (length=19)
+      public 'clockedOut' => string '2017-10-20 05:35:00' (length=19)
+      public 'created' => string '2017-10-19 21:15:29' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046919
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-20 21:17:02' (length=19)
+      public 'userId' => int 517135
+  public '4046920' => 
+    object(stdClass)[92]
+      public 'clockedIn' => string '2017-10-19 21:54:00' (length=19)
+      public 'clockedOut' => string '2017-10-20 07:49:00' (length=19)
+      public 'created' => string '2017-10-19 21:54:47' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046920
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-20 21:46:55' (length=19)
+      public 'userId' => int 517135
+  public '4046921' => 
+    object(stdClass)[93]
+      public 'clockedIn' => string '2017-10-20 13:22:00' (length=19)
+      public 'clockedOut' => string '2017-10-21 02:15:00' (length=19)
+      public 'created' => string '2017-10-20 13:22:57' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046921
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-21 13:17:17' (length=19)
+      public 'userId' => int 517135
+  public '4046922' => 
+    object(stdClass)[94]
+      public 'clockedIn' => string '2017-10-20 13:58:00' (length=19)
+      public 'clockedOut' => string '2017-10-20 22:16:00' (length=19)
+      public 'created' => string '2017-10-20 13:58:59' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046922
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-21 13:47:12' (length=19)
+      public 'userId' => int 517135
+  public '4046923' => 
+    object(stdClass)[95]
+      public 'clockedIn' => string '2017-10-20 14:04:00' (length=19)
+      public 'clockedOut' => string '2017-10-21 08:00:00' (length=19)
+      public 'created' => string '2017-10-20 14:04:19' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046923
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-21 14:02:08' (length=19)
+      public 'userId' => int 517135
+  public '4046924' => 
+    object(stdClass)[96]
+      public 'clockedIn' => string '2017-10-20 19:44:00' (length=19)
+      public 'clockedOut' => string '2017-10-21 00:09:00' (length=19)
+      public 'created' => string '2017-10-20 19:44:50' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046924
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-21 19:32:21' (length=19)
+      public 'userId' => int 517135
+  public '4046925' => 
+    object(stdClass)[97]
+      public 'clockedIn' => string '2017-10-20 19:49:00' (length=19)
+      public 'clockedOut' => string '2017-10-21 01:27:00' (length=19)
+      public 'created' => string '2017-10-20 19:49:49' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046925
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-21 19:47:18' (length=19)
+      public 'userId' => int 517135
+  public '4046926' => 
+    object(stdClass)[98]
+      public 'clockedIn' => string '2017-10-20 20:08:00' (length=19)
+      public 'clockedOut' => string '2017-10-21 08:00:00' (length=19)
+      public 'created' => string '2017-10-20 20:08:22' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046926
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-21 20:02:32' (length=19)
+      public 'userId' => int 517135
+  public '4046927' => 
+    object(stdClass)[99]
+      public 'clockedIn' => string '2017-10-20 20:10:00' (length=19)
+      public 'clockedOut' => string '2017-10-21 08:30:00' (length=19)
+      public 'created' => string '2017-10-20 20:10:09' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046927
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-21 20:02:31' (length=19)
+      public 'userId' => int 517135
+  public '4046928' => 
+    object(stdClass)[100]
+      public 'clockedIn' => string '2017-10-20 20:53:00' (length=19)
+      public 'clockedOut' => string '2017-10-21 04:52:00' (length=19)
+      public 'created' => string '2017-10-20 20:54:01' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046928
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-21 20:47:31' (length=19)
+      public 'userId' => int 517135
+  public '4046929' => 
+    object(stdClass)[101]
+      public 'clockedIn' => string '2017-10-20 21:02:00' (length=19)
+      public 'clockedOut' => string '2017-10-21 04:19:00' (length=19)
+      public 'created' => string '2017-10-20 21:02:29' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046929
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-21 21:02:32' (length=19)
+      public 'userId' => int 517135
+  public '4046930' => 
+    object(stdClass)[102]
+      public 'clockedIn' => string '2017-10-20 21:50:00' (length=19)
+      public 'clockedOut' => string '2017-10-21 08:19:00' (length=19)
+      public 'created' => string '2017-10-20 21:50:48' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046930
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-21 21:47:31' (length=19)
+      public 'userId' => int 517135
+  public '4046931' => 
+    object(stdClass)[103]
+      public 'clockedIn' => string '2017-10-20 21:58:00' (length=19)
+      public 'clockedOut' => string '2017-10-21 08:00:00' (length=19)
+      public 'created' => string '2017-10-20 21:58:43' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046931
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-21 21:47:31' (length=19)
+      public 'userId' => int 517135
+  public '4046932' => 
+    object(stdClass)[104]
+      public 'clockedIn' => string '2017-10-21 13:01:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 01:27:00' (length=19)
+      public 'created' => string '2017-10-21 13:01:56' (length=19)
+      public 'hourlyWage' => float 14.5
+      public 'id' => int 4046932
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 13:02:37' (length=19)
+      public 'userId' => int 517135
+  public '4046933' => 
+    object(stdClass)[105]
+      public 'clockedIn' => string '2017-10-21 13:05:00' (length=19)
+      public 'clockedOut' => string '2017-10-21 16:10:00' (length=19)
+      public 'created' => string '2017-10-21 13:05:25' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046933
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 13:02:37' (length=19)
+      public 'userId' => int 517135
+  public '4046934' => 
+    object(stdClass)[106]
+      public 'clockedIn' => string '2017-10-21 13:20:00' (length=19)
+      public 'clockedOut' => string '2017-10-21 23:38:00' (length=19)
+      public 'created' => string '2017-10-21 13:20:38' (length=19)
+      public 'hourlyWage' => float 11.5
+      public 'id' => int 4046934
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 13:02:37' (length=19)
+      public 'userId' => int 517135
+  public '4046935' => 
+    object(stdClass)[107]
+      public 'clockedIn' => string '2017-10-21 14:38:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 00:11:00' (length=19)
+      public 'created' => string '2017-10-21 14:38:24' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046935
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 14:32:43' (length=19)
+      public 'userId' => int 517135
+  public '4046936' => 
+    object(stdClass)[108]
+      public 'clockedIn' => string '2017-10-21 17:51:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 01:57:00' (length=19)
+      public 'created' => string '2017-10-21 17:51:20' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046936
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 17:32:50' (length=19)
+      public 'userId' => int 517135
+  public '4046937' => 
+    object(stdClass)[109]
+      public 'clockedIn' => string '2017-10-21 18:13:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 01:20:00' (length=19)
+      public 'created' => string '2017-10-21 18:13:49' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046937
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 18:02:55' (length=19)
+      public 'userId' => int 517135
+  public '4046938' => 
+    object(stdClass)[110]
+      public 'clockedIn' => string '2017-10-21 19:44:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 04:14:00' (length=19)
+      public 'created' => string '2017-10-21 19:44:22' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046938
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 19:32:54' (length=19)
+      public 'userId' => int 517135
+  public '4046939' => 
+    object(stdClass)[111]
+      public 'clockedIn' => string '2017-10-21 19:55:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 02:26:00' (length=19)
+      public 'created' => string '2017-10-21 19:55:27' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046939
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 19:47:44' (length=19)
+      public 'userId' => int 517135
+  public '4046940' => 
+    object(stdClass)[112]
+      public 'clockedIn' => string '2017-10-21 20:55:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 02:30:00' (length=19)
+      public 'created' => string '2017-10-21 20:55:16' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046940
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 20:48:03' (length=19)
+      public 'userId' => int 517135
+  public '4046941' => 
+    object(stdClass)[113]
+      public 'clockedIn' => string '2017-10-21 20:58:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 07:33:00' (length=19)
+      public 'created' => string '2017-10-21 20:58:08' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046941
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 20:48:03' (length=19)
+      public 'userId' => int 517135
+  public '4046942' => 
+    object(stdClass)[114]
+      public 'clockedIn' => string '2017-10-21 21:50:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 02:55:00' (length=19)
+      public 'created' => string '2017-10-21 21:51:01' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046942
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 21:47:51' (length=19)
+      public 'userId' => int 517135
+  public '4046943' => 
+    object(stdClass)[115]
+      public 'clockedIn' => string '2017-10-21 21:55:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 07:33:00' (length=19)
+      public 'created' => string '2017-10-21 21:55:07' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046943
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 21:47:51' (length=19)
+      public 'userId' => int 517135
+  public '4046944' => 
+    object(stdClass)[116]
+      public 'clockedIn' => string '2017-10-21 22:01:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 06:20:00' (length=19)
+      public 'created' => string '2017-10-21 22:01:39' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046944
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 21:47:51' (length=19)
+      public 'userId' => int 517135
+  public '4046945' => 
+    object(stdClass)[117]
+      public 'clockedIn' => string '2017-10-21 22:03:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 06:21:00' (length=19)
+      public 'created' => string '2017-10-21 22:03:52' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046945
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 21:47:51' (length=19)
+      public 'userId' => int 517135
+  public '4046946' => 
+    object(stdClass)[118]
+      public 'clockedIn' => string '2017-10-21 22:39:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 01:00:00' (length=19)
+      public 'created' => string '2017-10-21 22:40:02' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046946
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-22 22:32:53' (length=19)
+      public 'userId' => int 517135
+  public '4046947' => 
+    object(stdClass)[119]
+      public 'clockedIn' => string '2017-10-22 13:29:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 20:43:00' (length=19)
+      public 'created' => string '2017-10-22 13:29:30' (length=19)
+      public 'hourlyWage' => float 11.5
+      public 'id' => int 4046947
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-23 13:18:18' (length=19)
+      public 'userId' => int 517135
+  public '4046948' => 
+    object(stdClass)[120]
+      public 'clockedIn' => string '2017-10-22 13:51:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 20:57:00' (length=19)
+      public 'created' => string '2017-10-22 13:51:36' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046948
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-23 13:48:50' (length=19)
+      public 'userId' => int 517135
+  public '4046949' => 
+    object(stdClass)[121]
+      public 'clockedIn' => string '2017-10-22 13:56:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 21:25:00' (length=19)
+      public 'created' => string '2017-10-22 13:56:57' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046949
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-23 13:48:50' (length=19)
+      public 'userId' => int 517135
+  public '4046950' => 
+    object(stdClass)[122]
+      public 'clockedIn' => string '2017-10-22 15:13:00' (length=19)
+      public 'clockedOut' => string '2017-10-23 00:28:00' (length=19)
+      public 'created' => string '2017-10-22 15:13:39' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046950
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-23 15:03:22' (length=19)
+      public 'userId' => int 517135
+  public '4046951' => 
+    object(stdClass)[123]
+      public 'clockedIn' => string '2017-10-22 15:48:00' (length=19)
+      public 'clockedOut' => string '2017-10-23 00:32:00' (length=19)
+      public 'created' => string '2017-10-22 15:48:18' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046951
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-23 15:48:24' (length=19)
+      public 'userId' => int 517135
+  public '4046952' => 
+    object(stdClass)[124]
+      public 'clockedIn' => string '2017-10-22 19:56:00' (length=19)
+      public 'clockedOut' => string '2017-10-22 23:41:00' (length=19)
+      public 'created' => string '2017-10-22 19:56:18' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046952
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-23 19:48:22' (length=19)
+      public 'userId' => int 517135
+  public '4046953' => 
+    object(stdClass)[125]
+      public 'clockedIn' => string '2017-10-22 21:34:00' (length=19)
+      public 'clockedOut' => string '2017-10-23 07:06:00' (length=19)
+      public 'created' => string '2017-10-22 21:34:30' (length=19)
+      public 'hourlyWage' => float 10
+      public 'id' => int 4046953
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-23 21:33:27' (length=19)
+      public 'userId' => int 517135
+  public '4046954' => 
+    object(stdClass)[126]
+      public 'clockedIn' => string '2017-10-22 21:52:00' (length=19)
+      public 'clockedOut' => string '2017-10-23 08:00:00' (length=19)
+      public 'created' => string '2017-10-22 21:53:01' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046954
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-23 21:48:24' (length=19)
+      public 'userId' => int 517135
+  public '4046955' => 
+    object(stdClass)[127]
+      public 'clockedIn' => string '2017-10-22 23:54:00' (length=19)
+      public 'clockedOut' => string '2017-10-23 07:06:00' (length=19)
+      public 'created' => string '2017-10-22 23:54:37' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046955
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-23 23:48:34' (length=19)
+      public 'userId' => int 517135
+  public '4046956' => 
+    object(stdClass)[128]
+      public 'clockedIn' => string '2017-10-23 13:28:00' (length=19)
+      public 'clockedOut' => string '2017-10-23 20:12:00' (length=19)
+      public 'created' => string '2017-10-23 13:28:16' (length=19)
+      public 'hourlyWage' => float 11.5
+      public 'id' => int 4046956
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-24 13:18:58' (length=19)
+      public 'userId' => int 517135
+  public '4046957' => 
+    object(stdClass)[129]
+      public 'clockedIn' => string '2017-10-23 13:47:00' (length=19)
+      public 'clockedOut' => string '2017-10-23 22:43:00' (length=19)
+      public 'created' => string '2017-10-23 13:48:02' (length=19)
+      public 'hourlyWage' => float 3.63
+      public 'id' => int 4046957
+      public 'locationId' => int 25753
+      public 'modified' => string '2017-10-24 13:48:40' (length=19)
+      public 'userId' => int 517135
+  more elements...

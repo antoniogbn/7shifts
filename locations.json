@@ -1,0 +1,24 @@
+object(stdClass)[5]
+  public '25753' => 
+    object(stdClass)[1]
+      public 'address' => string '7shifts Brazil' (length=14)
+      public 'city' => string 'São Paulo' (length=10)
+      public 'country' => string 'US' (length=2)
+      public 'created' => string '2017-07-06 22:40:21' (length=19)
+      public 'id' => int 25753
+      public 'labourSettings' => 
+        object(stdClass)[2]
+          public 'autoBreak' => boolean false
+          public 'autoBreakRules' => 
+            array (size=2)
+              ...
+          public 'dailyOvertimeMultiplier' => float 1.5
+          public 'dailyOvertimeThreshold' => int 480
+          public 'overtime' => boolean true
+          public 'weeklyOvertimeMultiplier' => float 2
+          public 'weeklyOvertimeThreshold' => int 2400
+      public 'lat' => float 34.0522342
+      public 'lng' => float -118.2436849
+      public 'modified' => string '2018-06-08 17:57:23' (length=19)
+      public 'state' => string 'CA' (length=2)
+      public 'timezone' => string 'America/Sao_Paulo' (length=17)
